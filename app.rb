@@ -14,7 +14,4 @@ get '/favorite-song'do
   "My favorite song is Mr. Brightside"
 end
 
-
-
-
 end
